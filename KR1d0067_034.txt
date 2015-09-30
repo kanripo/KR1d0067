@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 日講禮記解義
-#+DATE: 2015-09-23 09:38:27
-#+PROPERTY: JUAN 34
+#+DATE: 2015-08-24 22:10:44.021138
+#+PROPERTY: ID KR1d0067
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十四
 <pb:KR1d0067_WYG_034-1a>¶
 　欽定四庫全書¶
 日講禮記解義卷三十四¶
@@ -470,4 +472,3 @@
 　　不得言主故名之如曰寡君之老母䘏是也¶
 　¶
 日講禮記解義卷三十四¶
-

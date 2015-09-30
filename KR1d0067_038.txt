@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 日講禮記解義
-#+DATE: 2015-09-23 09:38:27
-#+PROPERTY: JUAN 38
+#+DATE: 2015-08-24 22:10:44.101201
+#+PROPERTY: ID KR1d0067
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十八
 <pb:KR1d0067_WYG_038-1a>¶
 　欽定四庫全書¶
 日講禮記解義卷三十八¶
@@ -254,4 +256,3 @@
 　　祖宗之心爲心故親其九族由是推之而仁民愛物¶
 　　胥本於此矣此正與首章言禘祫之意相應也¶
 日講禮記解義卷三十八¶
-

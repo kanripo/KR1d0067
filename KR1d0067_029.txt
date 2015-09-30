@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 日講禮記解義
-#+DATE: 2015-09-23 09:38:27
-#+PROPERTY: JUAN 29
+#+DATE: 2015-08-24 22:10:43.918784
+#+PROPERTY: ID KR1d0067
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十九
 <pb:KR1d0067_WYG_029-1a>¶
 　欽定四庫全書¶
 日講禮記解義卷二十九¶
@@ -470,4 +472,3 @@
 　¶
 　¶
 日講禮記解義卷二十九¶
-

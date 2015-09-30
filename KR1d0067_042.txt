@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 日講禮記解義
-#+DATE: 2015-09-23 09:38:27
-#+PROPERTY: JUAN 42
+#+DATE: 2015-08-24 22:10:44.185704
+#+PROPERTY: ID KR1d0067
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十二
 <pb:KR1d0067_WYG_042-1a>¶
 　欽定四庫全書¶
 日講禮記解義卷四十二¶
@@ -632,4 +634,3 @@
 　　前後互相發明而詞達理粹蓋孔門之遺書而非漢¶
 　　人所能及也¶
 日講禮記解義卷四十二¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 日講禮記解義
-#+DATE: 2015-09-23 09:38:27
-#+PROPERTY: JUAN 27
+#+DATE: 2015-08-24 22:10:43.879320
+#+PROPERTY: ID KR1d0067
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十七
 <pb:KR1d0067_WYG_027-1a>¶
 　欽定四庫全書¶
 日講禮記解義卷二十七¶
@@ -290,4 +292,3 @@
 　　巨細兼該而必推本於忠信又引子路之事以實之¶
 　　足使後世之學禮者有所據依矣¶
 日講禮記解義卷二十七¶
-

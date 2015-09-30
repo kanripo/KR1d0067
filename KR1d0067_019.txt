@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 日講禮記解義
-#+DATE: 2015-09-23 09:38:27
-#+PROPERTY: JUAN 19
+#+DATE: 2015-08-24 22:10:43.669360
+#+PROPERTY: ID KR1d0067
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十九
 <pb:KR1d0067_WYG_019-1a>¶
 　欽定四庫全書¶
 日講禮記觧義卷十九¶
@@ -326,4 +328,3 @@
 　　不得止息盖辰土之氣所應也¶
 　¶
 日講禮記觧義卷十九¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 日講禮記解義
-#+DATE: 2015-09-23 09:38:27
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:10:43.524325
+#+PROPERTY: ID KR1d0067
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1d0067_WYG_012-1a>¶
 　欽定四庫全書¶
 日講禮記解義卷十二¶
@@ -434,4 +436,3 @@
 　　以為椁故合葬者只同穴而各異椁也¶
 　¶
 日講禮記解義卷十二¶
-

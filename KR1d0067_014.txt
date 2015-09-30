@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 日講禮記解義
-#+DATE: 2015-09-23 09:38:27
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 22:10:43.574535
+#+PROPERTY: ID KR1d0067
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十四
 <pb:KR1d0067_WYG_014-1a>¶
 　欽定四庫全書¶
 日講禮記解義卷十四¶
@@ -344,4 +346,3 @@
 　¶
 　¶
 日講禮記解義卷十四¶
-
